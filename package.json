@@ -13,5 +13,6 @@
   "keywords": [],
   "author": "Ya Zhuang <zhuangya@gmail.com>",
   "license": "ISC",
-  "bin": "cli.js"
+  "bin": "cli.js",
+  "preferGlobal": true
 }
