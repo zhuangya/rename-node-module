@@ -1,0 +1,17 @@
+{
+  "name": "rename-node-module",
+  "version": "1.0.0",
+  "description": "just a little helper for renaming node module",
+  "main": "index.js",
+  "dependencies": {
+    "meow": "^3.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ya Zhuang <zhuangya@gmail.com>",
+  "license": "ISC",
+  "bin": "cli.js"
+}
